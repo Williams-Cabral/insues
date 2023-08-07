@@ -1,1 +1,1 @@
-# insues
+# issues
